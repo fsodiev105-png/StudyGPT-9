@@ -1,0 +1,6 @@
+{
+  "name": "StudyGPT 9",
+  "description": "AI-помощник для учеников 9 класса: решение домашних заданий, тренировка контрольных с мгновенными ответами и полными разборами, пошаговый репетитор и распознавание фото заданий.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
